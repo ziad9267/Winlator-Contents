@@ -29,6 +29,13 @@
   
   {
     "type": "DXVK",
+    "verName": "1.10.3-async",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/DXVK/dxvk-async-1.10.3.wcp"
+   },
+  
+  {
+    "type": "DXVK",
     "verName": "1.10.3-arm64ec-async",
     "verCode": "1",
     "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.10.3-arm64ec-async.wcp"
@@ -40,6 +47,12 @@
     "verCode": "1",
     "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.3.1-arm64ec-async.wcp"
    },
+  
+  {
+    "type": "DXVK",
+    "verName": "2.4.1-gplasync",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/DXVK/dxvk-2.4.1-gplasync.wcp"
   
   {
     "type": "DXVK",
@@ -105,6 +118,20 @@
    },
   
   {
+    "type": "FEXCore",
+    "verName": "2507",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/FEXCore/FEXCore-2507.wcp"
+   },
+  
+  {
+    "type": "FEXCore",
+    "verName": "2506",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/FEXCore/FEXCore-2506.wcp"
+   },
+  
+  {
     "type": "VKD3D",
     "verName": "2.14.1-proton",
     "verCode": "1",
@@ -115,6 +142,6 @@
     "type": "VKD3D",
     "verName": "2.14.1-arm64ec",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-2.14.1-arm64ec.1.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/VKD3D/vkd3d-2.14.1-arm64ec.wcp"
    }
 ]
