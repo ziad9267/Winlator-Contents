@@ -3,118 +3,118 @@
     "type": "Box64",
     "verName": "0.3.4",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/Box64/box64-0.3.4.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.4.wcp"
    },
   
   {
     "type": "Box64",
     "verName": "0.3.5",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/Box64/box64-0.3.5.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.5.wcp"
    },
   
   {
     "type": "Box64",
     "verName": "0.3.6-fix",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/Box64/box64-036fix.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/Box64/box64-036fix.wcp"
    },
   
   {
     "type": "Box64",
     "verName": "0.3.7-34e7894",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/Box64/box64-0.3.7-34e7894.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.7-34e7894.wcp"
    },
   
   {
     "type": "DXVK",
     "verName": "1.10.3-arm64ec-async",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/DXVK/dxvk-1.10.3-arm64ec-async.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.10.3-arm64ec-async.wcp"
    },
   
   {
     "type": "DXVK",
     "verName": "2.3.1-arm64ec-async",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/DXVK/dxvk-2.3.1-arm64ec-async.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.3.1-arm64ec-async.wcp"
    },
   
   {
     "type": "DXVK",
     "verName": "2.4.1-PreRegression",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/DXVK/dxvk-2.4.1-PreRegression.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.4.1-PreRegression.wcp"
    },
   
   {
     "type": "DXVK",
     "verName": "2.4-PreRegression-arm64ec",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/DXVK/dxvk-2.4Pre-Regression-arm64ec.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.4Pre-Regression-arm64ec.wcp"
    },
   
   {
     "type": "DXVK",
     "verName": "2.6-arm64ec-gplasync",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/DXVK/dxvk-2.6-arm64ec-gplasync.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.6-arm64ec-gplasync.wcp"
    },
   
   {
     "type": "DXVK",
     "verName": "2.7-arm64ec-gplasync",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/DXVK/dxvk-2.7-arm64ec-gplasync.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.7-arm64ec-gplasync.wcp"
    },
   
   {
     "type": "DXVK",
     "verName": "2.6.2-gplasync",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/DXVK/dxvk-v2.6.2-1-gplasync.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-v2.6.2-1-gplasync.wcp"
    },
   
   {
     "type": "FEXCore",
     "verName": "241214",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/FEXCore/fexcore_241214.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/fexcore_241214.wcp"
    },
   
   {
     "type": "FEXCore",
     "verName": "2508",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/FEXCore/FEXCore-2508.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-2508.wcp"
    },
   
   {
     "type": "FEXCore",
     "verName": "2508.1",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/FEXCore/2508.1.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/2508.1.wcp"
    },
   
   {
     "type": "FEXCore",
     "verName": "2508-83e4496",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/FEXCore/FEX-83e4496.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/FEX-83e4496.wcp"
    },
   
   {
     "type": "VKD3D",
     "verName": "2.14.1-proton",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/VKD3D/vkd3d-proton-2.14.1.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-2.14.1.wcp"
    },
   
   {
     "type": "VKD3D",
     "verName": "2.14.1-arm64ec",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/tree/main/VKD3D/vkd3d-2.14.1-arm64ec.1.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-2.14.1-arm64ec.1.wcp"
    }
 ]
