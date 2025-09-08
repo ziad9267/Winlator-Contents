@@ -47,6 +47,14 @@
     "verCode": "1",
     "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.4.1-gplasync.wcp"
    },
+  
+  {
+    "type": "DXVK",
+    "verName": "2.4.1-fix",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.4.1-fix.wcp"
+   },
+  
   {
     "type": "DXVK",
     "verName": "2.4.1-PreRegression",
@@ -66,6 +74,13 @@
     "verName": "2.6-arm64ec-gplasync",
     "verCode": "1",
     "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.6-arm64ec-gplasync.wcp"
+   },
+  
+  {
+    "type": "DXVK",
+    "verName": "2.6.2-arm64ec-gplasync",                                                              "type": "DXVK",                                               "verName": "2.6-arm64ec-gplasync",
+    "verCode": "1",
+    "remoteUrl": https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.6.2-arm64ec-gplasync.wcp"
    },
   
   {
@@ -101,13 +116,6 @@
     "verName": "2508.1",
     "verCode": "1",
     "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/2508.1.wcp"
-   },
-  
-  {
-    "type": "FEXCore",
-    "verName": "2508-83e4496",
-    "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/FEX-83e4496.wcp"
    },
   
   {
