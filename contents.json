@@ -134,6 +134,13 @@
   
   {
     "type": "FEXCore",
+    "verName": "2510",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-2510.wcp"
+   },
+  
+  {
+    "type": "FEXCore",
     "verName": "2507",
     "verCode": "1",
     "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-2507.wcp"
