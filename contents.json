@@ -15,10 +15,16 @@
   
   {
     "type": "Box64",
-    "verName": "0.3.7-34e7894",
+    "verName": "0.3.8",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.7-34e7894.wcp"
-   },
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.8.wcp"
+  },
+  
+    "type": "WOWBox64",
+    "verName": "0.3.8",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/WowBox64/WowBox64-0.3.8.wcp"
+  },
   
   {
     "type": "DXVK",
