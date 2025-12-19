@@ -175,6 +175,13 @@
    },
   
   {
+    "type": "VKD3D",
+    "verName": "3.0b-proton",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-3.0b.wcp"
+   },
+  
+  {
     "type": "Wine",
     "verName": "9.20",
     "verCode": "1",
