@@ -113,30 +113,30 @@
   
   {
     "type": "FEXCore",
-    "verName": "2508",
+    "verName": "2506",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-2508.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-2506.wcp"
+   },
+  
+  {
+    "type": "FEXCore",
+    "verName": "2507",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-2507.wcp"
    },
   
   {
     "type": "FEXCore",
     "verName": "2508.1",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/2508.1.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-2508.1.wcp"
    },
   
   {
     "type": "FEXCore",
     "verName": "2509.1",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/2509.1.wcp"
-   },
-  
-  {
-    "type": "FEXCore",
-    "verName": "2509",
-    "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-2509.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-2509.1.wcp"
    },
   
   {
@@ -155,16 +155,9 @@
   
   {
     "type": "FEXCore",
-    "verName": "2507",
+    "verName": "2512",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-2507.wcp"
-   },
-  
-  {
-    "type": "FEXCore",
-    "verName": "2506",
-    "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-2506.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-2512.wcp"
    },
   
   {
